@@ -12,3 +12,4 @@ else
 fi
 
 exec bash
+kill -9 "$PPID"
